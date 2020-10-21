@@ -5,6 +5,7 @@ This DM Bot also supports DM'ing people by roles or simply to specific users!
 # Setup Guid
 Open the utilities folder and put the various things required in /utilities/config.json
 Here's an Example for that : https://imgur.com/kQHbO4f
+
 ![ScreenShot](https://imgur.com/kQHbO4f)
 
 
