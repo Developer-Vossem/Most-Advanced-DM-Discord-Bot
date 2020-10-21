@@ -1,0 +1,5 @@
+{
+    "token"    : "addyoutoken",
+    "cooldown" : cooldownnumberinseconds,
+    "prefix"   : "prefix"
+}
